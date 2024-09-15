@@ -31,4 +31,17 @@ student= ["Hasib", "Ashik", "Juwel", "Saifull"]
 # --------------------------------
 # Tuple (immutable)
 bracketsName=("Parentheses","Curly Brackets","Square Brackets","Angle Brackets")
-print(type(bracketsName))
+# print(type(bracketsName))
+# -----------------------------------
+# Range
+disc=range(1,7)
+# for i in disc:
+#     print(i)
+# print(type(disc))
+# ---------------------------------------
+# bool
+isActive=True
+isLoading=False
+# print(type(isActive))
+# print(type(isLoading))
+# --------------------------------------
