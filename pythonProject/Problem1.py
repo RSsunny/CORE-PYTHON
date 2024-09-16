@@ -1,3 +1,4 @@
+from Oop import MyClass
 '''
 Problem -1
 series= 1,3,5,7,9,11............99
@@ -27,7 +28,7 @@ sum=0
 Problem -2
 proved 2023 is not Leap Year!
 '''
-year=1990
+year=2023
 if year%100==0:
     if year%400==0:
         print(f"{year} is leap year")
@@ -53,3 +54,6 @@ for i in arr:
     sum+=i
 print(arr)
 print("sum of 20 numbers in seres: ",sum)
+# ------------------------------------------------
+valueOfX= MyClass.x
+print(valueOfX)
