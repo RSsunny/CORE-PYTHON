@@ -1,3 +1,6 @@
+```python
+print("Hello Python Programmer")
+```
 ### Why Python?
 Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
 Python has a simple syntax similar to the English language.
@@ -23,6 +26,7 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 - [Function](pythonProject/Function.py)
 - [Lambda](pythonProject/Lamda.py)
 - [Oop](pythonProject/Oop.py)
+- [Polymorphism](pythonProject/Polymorphism.py)
 
 ## problem solving
 
