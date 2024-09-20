@@ -9,7 +9,7 @@ x=lambda a,b: a+b
 print(x(10,20))
 
 
-# pass argument lamda function
+# pass argument lambda function
 def myFunction(fun1,fun2):
     sum=fun1+fun2
     return sum

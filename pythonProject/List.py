@@ -3,8 +3,13 @@ from Oop import MyClass
 
 studentName=["Sunny","Hasib","Ashik","juwel"]
 studentRoll=[15,25,36,45]
-sumOfRoll=MyClass.handlesum(studentRoll)
+
+
+sumOfRoll=MyClass.handlesum(arr=studentRoll)
 print(sumOfRoll)
+
+
+
 thislist = ["apple", "banana", "cherry", "apple"]
 
 print(thislist[2:4]) # index number 2 theke 4 index er ag projonto

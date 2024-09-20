@@ -7,6 +7,7 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 
 # Python Core concept 
 
+## content
 - [Syntax](pythonProject/main.py)
 - [Comment](pythonProject/main.py)
 - [Variable](pythonProject/main.py)
@@ -20,7 +21,7 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 - [If-else](pythonProject/IfElse.py)
 - [For loops](pythonProject/List.py)
 - [Function](pythonProject/Function.py)
-- [Lamda](pythonProject/Lamda.py)
+- [Lambda](pythonProject/Lamda.py)
 - [Oop](pythonProject/Oop.py)
 
 ## problem solving
