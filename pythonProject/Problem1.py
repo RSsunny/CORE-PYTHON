@@ -43,7 +43,7 @@ else :
 
 '''
 Problem -3
-solve fibonacci series first 20 number =1,1,2,3,5,8,13,21..........N
+solve fibonacci series sum of 20 number =1,1,2,3,5,8,13,21..........N
 '''
 
 arr=[1,1]
