@@ -1,6 +1,6 @@
 
 # Why Python?
-One the time Python is the most popular Language. Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python is the most popular language at this time. Works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
 Python has a simple syntax similar to the English language.
 Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
 Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
@@ -8,8 +8,8 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 
 # Environment set up 
 
-- Download Python your Desktop  [click here]()
-- Download PyCharm for Python text editor [click here]()
+- Download Python your Desktop  [click here](https://www.python.org/downloads/)
+- Download PyCharm for Python text editor [click here](https://www.jetbrains.com/pycharm/download/?section=windows)
 - create new project
 
 ```python
@@ -34,6 +34,8 @@ print("Hello Python Programmer")
 - [Lambda](pythonProject/Lamda.py)
 - [Oop](pythonProject/Oop.py)
 - [Polymorphism](pythonProject/Polymorphism.py)
+- [Date and time](pythonProject/Dates.py)
+- [Math](pythonProject/Math.py)
 
 # problem solving 
 ```python
@@ -64,7 +66,7 @@ for i in arr:
 print(arr)
 print("sum of 20 numbers in seres: ",sum)
 ```
-- [problem-1](pythonProject/Problem1.py)
+- [problem-1](pythonProject/Problem1.py) 
 - [problem-2](pythonProject/Problem1.py)
 - [problem-3](pythonProject/Problem1.py)
 - [problem-4](pythonProject/Problem1.py)
