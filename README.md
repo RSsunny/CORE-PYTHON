@@ -36,6 +36,7 @@ print("Hello Python Programmer")
 - [Polymorphism](pythonProject/Polymorphism.py)
 - [Date and time](pythonProject/Dates.py)
 - [Math](pythonProject/Math.py)
+- [Try_Except](pythonProject/try_catch.py)
 
 # problem solving 
 ```python
