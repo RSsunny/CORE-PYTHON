@@ -1,5 +1,5 @@
 # Math
-
+import mymodule
 import math
 x=[10,52,45,63,45,212,236,452,526,42,535,125]
 
@@ -16,5 +16,6 @@ print(math.floor(z))
 print(math.sqrt(y))
 print(math.pow(y,2))
 print(math.pi)
-
+sum= mymodule.add(10,5)
+print("module:",sum)
 

@@ -53,5 +53,6 @@ cars = [
 def handlebar(e):
     return e["year"]
 cars.sort(reverse=True, key=handlebar)
+count=[1,5,3,6,8,5,8,45,45]
 print(cars)
 
